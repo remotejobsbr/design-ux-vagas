@@ -1,3 +1,5 @@
+![Remote Jobs Brazil](logo.png)
+
 # Vagas (Somente vagas de Design/UX)
 
 Espaço para a divulgação de vagas para designers e profissionais de UX.
