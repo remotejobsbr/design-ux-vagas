@@ -4,6 +4,8 @@ Espaço para a divulgação de vagas para designers e profissionais de UX.
 
 Vagas disponíveis em https://github.com/remotejobbr/design-ux-vagas/issues
 
+Você também pode [pesquisar e filtrar as vagas deste repositório no openings.dev](https://openings.dev/communities/remotejobsbr/design-ux-vagas). Cada resultado leva à issue original, com os detalhes atualizados e as instruções para candidatura.
+
 ### Cadastrando uma vaga
 
 Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre colchetes seguido do nome da vaga e nome da empresa.
